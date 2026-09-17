@@ -97,7 +97,7 @@ Some of the major observations from the analysis include:
 
 ## 🖥️ Dashboard Preview
 
-![Global Renewable Energy Analytics Dashboard](download-preview.png)
+![Global Renewable Energy Analytics Dashboard](dashboard-preview.png)
 
 ---
 
